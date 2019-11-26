@@ -11,28 +11,32 @@ Our project contains only the ODI statistics of all the players.
 
 Our projects contains the following four modules :
 ## 1.DISPLAY RECORDS : 
-    This module displays the database on the terminal according to user specifications.
-    For example,If the user wants to see the statistics of all the batsmen/bowler of a given country he can do so by using this module.
-    There are all types of display options in this module so as to give the user more flexibility
+    
+  This module displays the database on the terminal according to user specifications.
+  For example,If the user wants to see the statistics of all the batsmen/bowler of a given country he 
+  can do so by using this module.
+  There are all types of display options in this module so as to give the user more flexibility
 
 
 ## 2.ADD RECORDS :
-    With this module the user can add new records to the existing database with the help of a user interactive prompt.
+   With this module the user can add new records to the existing database with the help of a user interactive prompt.
 
 
 ## 3.DELETE RECORDS :
-    With the help of this module the user can delete the statistical record of a batsmen/bowler from the database.
-    The user will have to provide the name of the batsmen/bowler to be deleted and the program deletes the corresponding record.
+   With the help of this module the user can delete the statistical record of a batsmen/bowler from the database.
+  The user will have to provide the name of the batsmen/bowler to be deleted and the program deletes the corresponding record.
 
 ## 4.EDIT RECORDS :
-    With this module the user can edit the statistical data of an already existing batsmen/bowler.
-    The user can change any part of the database item he wants to.
-    This is particularly helpful if the user has accidently entered wrong or misleading data and wants to change them.
+   With this module the user can edit the statistical data of an already existing batsmen/bowler.
+   The user can change any part of the database item he wants to.
+   This is particularly helpful if the user has accidently entered wrong or misleading data and wants to change them.
 
 
 
 
 ## DATABASE STRUCTURE :
+
+
 1.BATSMEN :
     The structure of batsmen database is as follows :
     1.Name
@@ -63,7 +67,7 @@ Run the make file(type make in the terminal - this will link and compile all the
 Type ./main in the terminal this will launch the program.
 
 
-TEAM MEMBERS :
+## TEAM MEMBERS :
 1.R.Prasannavenkatesh   
 2.Lalith Kumar Reddy G. 
 3.Pranav Reddy Saddi   
